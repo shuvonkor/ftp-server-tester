@@ -12,4 +12,4 @@ This code will help test if the FTP server is reachable and if authentication de
 
 ### Additional Resources
 
-For more resources on FTP servers, you can refer to https://ftpserverbd.com This site offers various FTP server lists and tools.
+For more resources on FTP servers, you can refer to <a href="https://ftpserverbd.com" rel="dofollow">FTP SERVER BD</a> This site offers various FTP server lists and tools.
